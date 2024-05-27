@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon May 27 14:27:05 MSK 2024","Mon May 27 14:27:05 MSK 2024","113","tests","test_log_in","TestLogin","","","Password is empty and field is invalidated",""
+"passed","Mon May 27 14:26:55 MSK 2024","Mon May 27 14:26:55 MSK 2024","143","tests","test_log_in","TestLogin","","","Error message while username is empty is correct",""
+"passed","Mon May 27 14:26:46 MSK 2024","Mon May 27 14:26:46 MSK 2024","154","tests","test_log_in","TestLogin","","","Username is empty and field is invalidated",""
+"passed","Mon May 27 14:27:14 MSK 2024","Mon May 27 14:27:15 MSK 2024","117","tests","test_log_in","TestLogin","","","Error message while password is empty is correct",""
+"passed","Mon May 27 14:26:17 MSK 2024","Mon May 27 14:26:18 MSK 2024","630","tests","test_log_in","TestLogin","","","Successful login via main admin",""
+"passed","Mon May 27 14:26:28 MSK 2024","Mon May 27 14:26:28 MSK 2024","651","tests","test_log_in","TestLogin","","","Login user not found",""
+"passed","Mon May 27 14:26:37 MSK 2024","Mon May 27 14:26:37 MSK 2024","685","tests","test_log_in","TestLogin","","","Login password is wrong",""
